@@ -8,7 +8,7 @@ public class Job {
 	private String salary;
 	private String date;
 	
-	
+	//创建一个方法用来设置job的变量
 	public void set(String cmpname, String jobname, String addr, String salary, String date) {
 		
 		this.cmpname = cmpname;
